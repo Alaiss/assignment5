@@ -1,0 +1,6 @@
+/* Set padding to keep content from hitting the edges */
+.app-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
