@@ -1,0 +1,21 @@
+#heh2web, #heh2{
+    font-family: 'Sanchez';font-size: 14px;
+}
+#lab2{
+    font-size: 12pt;
+    width: 50em;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+    padding-top: 10px;
+}
+
+input[type="checkbox"]:checked {
+    content: '';
+    width: 1.2ex;
+    height: 0.4ex;
+    background: rgba(0, 0, 0, 0);
+    border: 3px solid blue;
+    border-top: none;
+    border-right: none;
+ }
