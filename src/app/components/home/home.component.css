@@ -9,3 +9,6 @@
 #lol4{
     padding-left: 5%
 }
+.float-right {
+    float: right !important;
+}
