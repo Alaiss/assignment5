@@ -1,0 +1,17 @@
+.float-right {
+    float: right !important;
+}
+#a1{
+    font-family: 'Sanchez';font-size: 16px;
+}
+#assign1{
+    font-size: 12pt;
+    width: 50em;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+    padding-top: 10px;
+}
+.center {
+    text-align: center;
+  }
