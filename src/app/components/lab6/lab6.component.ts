@@ -42,6 +42,4 @@ export class Lab6Component implements OnInit {
       p.text("one can even say that the nose is so big that it jumps out of the sketch!", 30, p.height-30);
     };
   }
-
-  
 }
